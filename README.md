@@ -1,7 +1,16 @@
-![Screenshot 2025-03-13 013112](https://github.com/user-attachments/assets/396e9ae1-3a6e-4379-9017-43a0ceee5e54) Diagram ini menggambarkan alur kerja dalam analisis sentimen menggunakan model IndoBERT.
+# Research Flow
+![Screenshot 2025-03-13 013112](https://github.com/user-attachments/assets/396e9ae1-3a6e-4379-9017-43a0ceee5e54) 
 
-Crawling Data – Data dikumpulkan dan disimpan dalam bentuk dataset.
-Pre-processing & Labeling – Data diproses dengan teknik seperti text cleaning, case folding, text normalization, tokenization, stopwords removal, dan pemanfaatan InSet Lexicon untuk memberikan label sentimen.
-Model Train & Test – Model IndoBERT digunakan dan di-fine-tuning untuk meningkatkan akurasi analisis sentimen.
-Model Evaluasi – Hasil model dievaluasi menggunakan Confusion Matrix untuk mengukur performa klasifikasi.
-Implementasi & Hasil – Hasil analisis divisualisasikan untuk memahami performa model lebih lanjut.
+This diagram illustrates the workflow in sentiment analysis using the IndoBERT model.
+- Data Crawling - Data is collected and stored in the form of datasets.
+- Pre-processing & Labeling - Data is processed with techniques such as text cleaning, case folding, text normalisation, tokenisation, stopwords removal, and utilisation of InSet Lexicon to provide sentiment labels.
+- Model Train & Test - IndoBERT model is utilised and fine-tuned to improve the accuracy of sentiment analysis.
+- Model Evaluation - Model results were evaluated using Confusion Matrix to measure classification performance.
+- Implementation & Results - Analysis results are visualised to further understand model performance.
+
+
+# Dataset
+Data that has been crawled previously is preprocessed so that it is ready to be processed in the algorithm used, there are 6 stages of data preprocessing used in this research.
+
+
+
